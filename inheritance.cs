@@ -1,6 +1,6 @@
 using System;
 
-namespace Inheritance
+namespace Al
 {
     class Kucing
     {
@@ -27,7 +27,7 @@ namespace Inheritance
     }
 }
 
-namespace Inheritance
+namespace Al
 {
     class Sphynx : Kucing
     {
@@ -60,7 +60,7 @@ namespace Inheritance
     }
 }
 
-namespace Inheritance
+namespace Al
 {
     class Program
     {
