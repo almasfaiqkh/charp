@@ -14,7 +14,7 @@ namespace Project
 			string username, password;
 			Console.Clear();
 			const string USERNAME = "admin";
-	    	const string PASSWORD = "123";
+	    		const string PASSWORD = "123";
 	    	for ( ; ; )
 	    	{
 	        	Console.WriteLine("Masukkan username dan password");
